@@ -172,16 +172,27 @@ A disclaimer is shown:
 ## 📁 Project Structure
 
 frontend/
+
 ├── pages/
+
 ├── components/
+
 └── utils/
 
 backend/
+
 ├── main.py
+
 ├── analysis.py
+
 ├── forecast.py
+
 ├── models.py
+
 ├── schemas.py
+
 ├── database.py
+
 ├── security.py
+
 └── auth.py
